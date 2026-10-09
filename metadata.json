@@ -1,0 +1,6 @@
+{
+  "name": "Diseñador Metodológico de Guías de Aprendizaje",
+  "description": "Diagrama de flujo interactivo y generador de guías de aprendizaje por competencias con evaluación sin cuestionarios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
